@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a{
+    transition: 0.5s;
+}
+body{
+    background-image: url("/dist/realistic-casino-background-with-flying-chips-golden-coins-dice-ai.jpg");
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}
+.her-title{
+    font-family: 'Tilt Prism', cursive;
+}
